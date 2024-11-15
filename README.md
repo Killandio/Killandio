@@ -39,7 +39,7 @@ Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, us
 > "I'm always looking to improve my skills and gain recognition through certifications. Here are some of the certifications I’ve earned so far:  
 > - **English Course for Beginners – Module 01: Beginners (20 Hours)**  
 >   Certificate Code: 1014E6-2EFF2-7  
->   [View Certificate](certificates/Killandio-Dantas-Curso-de-Ingles-para-Iniciantes-8211-Modulo-01-Beginners-8211-Gratis-e-Completo-20-HORAS-Certificado-Curso-em-Video.pdf)  
+>   [View Certificate](certificates/Killandio-Dantas-Curso-de-Ingles-para-Iniciantes-8211-Modulo-01-Beginners-8211-Gratis-e-Completo-20-HORAS-Certificado-Curso-em-Video.pdf)
 > - **Python 3 – Basics (40 Hours)**  
 >   Certificate Code: 1014E6-66E2-2  
 >   [View Certificate](certificates/Killandio-Dantas-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
