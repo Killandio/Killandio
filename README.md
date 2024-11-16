@@ -1,23 +1,23 @@
 ### 👋 Hi, I'm Killandio Dantas!
 
-> "I’m an Information Systems student, driven by curiosity and a passion for learning, always looking to expand my knowledge in the world of technology."
+> I’m an Information Systems student, driven by curiosity and a passion for learning, always looking to expand my knowledge in the world of technology.
 
 ---
 
 ### 📚 Goals and Purpose
 
-> "My main focus right now is to enhance my skills and build a solid foundation in technology. I entered this field because I believe it shapes the future, and I aim to help people through technological solutions. Throughout my life, my goal is to explore and learn as much as possible, covering everything from full-stack development to artificial intelligence."
+> My main focus right now is to enhance my skills and build a solid foundation in technology. I entered this field because I believe it shapes the future, and I aim to help people through technological solutions. Throughout my life, my goal is to explore and learn as much as possible, covering everything from full-stack development to artificial intelligence.
 
 ---
 
 ### 🛠️ Technical Skills
 
-> "As a beginner in the tech field, I’m exploring different tools and programming languages to build a strong foundation. Currently, I’m focusing on:
+> As a beginner in the tech field, I’m exploring different tools and programming languages to build a strong foundation. Currently, I’m focusing on:
 > - **Programming Languages:** Python, SQL, C (always open to learning new languages in the future).
 > - **Tools and Technologies:**  
 >   - IDEs: PyCharm, VS Code (via CS50)  
 >   - Database: MySQL  
-> - **Level:** Beginner, but highly motivated to keep evolving."
+> - **Level:** Beginner, but highly motivated to keep evolving.
 
 #### **Badges**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -36,7 +36,7 @@ Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, us
 
 ### 🏅 Certifications
 
-> "I'm always looking to improve my skills and gain recognition through certifications. Here are some of the certifications I’ve earned so far:  
+> I'm always looking to improve my skills and gain recognition through certifications. Here are some of the certifications I’ve earned so far:  
 > - **English Course for Beginners – Module 01: Beginners (20 Hours)**  
 >   Certificate Code: 1014E6-2EFF2-7  
 >   [View Certificate](https://github.com/Killandio/certifications/blob/main/certificates/Killandio-Dantas-Curso-de-Ingles-para-Iniciantes-8211-Modulo-01-Beginners-8211-Gratis-e-Completo-20-HORAS-Certificado-Curso-em-Video.pdf)
@@ -44,7 +44,7 @@ Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, us
 >   Certificate Code: 1014E6-66E2-2  
 >   [View Certificate](https://github.com/Killandio/certifications/blob/main/certificates/Killandio-Dantas-Python-3-8211-Mundo-1-40-Horas-Certificado-Curso-em-Video.pdf)
 
-For a full list of certifications, please check my dedicated [Certifications Repository](https://github.com/killandio/certifications), which showcases each certificate along with additional details."
+For a full list of certifications, please check my dedicated [Certifications Repository](https://github.com/killandio/certifications), which showcases each certificate along with additional details.
 
 ---
 
@@ -57,15 +57,15 @@ For a full list of certifications, please check my dedicated [Certifications Rep
 
 ### 🎓 Projects and Learning
 
-> "With each new learning, I try to apply my knowledge in small practical projects, which help me solidify my understanding and develop a deeper comprehension of the tools I use. I'm open to collaborating on projects, especially those that promote social impact or technological innovation."
+> With each new learning, I try to apply my knowledge in small practical projects, which help me solidify my understanding and develop a deeper comprehension of the tools I use. I'm open to collaborating on projects, especially those that promote social impact or technological innovation.
 
 ---
 
 ### 📫 Contact
 
-> "I'm always open to exchanging ideas, learning, and collaborating. You can find me on the following platforms:  
+> I'm always open to exchanging ideas, learning, and collaborating. You can find me on the following platforms:  
 > - **Email:** [killandio@keymail.dev](mailto:killandio@keymail.dev)  
-> - **GitHub:** [github.com/killandio](https://github.com/killandio)"
+> - **GitHub:** [github.com/killandio](https://github.com/killandio)
 
 ---
 
