@@ -49,8 +49,6 @@ Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, us
 
 ### 🎓 Projects and Learning
 
-### 🎓 Projects and Learning
-
 > With each new learning, I try to apply my knowledge in small practical projects, which help me solidify my understanding and develop a deeper comprehension of the tools I use. I'm open to collaborating on projects, especially those that promote social impact or technological innovation.
 
 #### Recent Projects
