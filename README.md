@@ -30,7 +30,12 @@
 
 ### 🎯 Current Focus
 
-Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, using these languages to build a strong foundation in programming and data handling. I plan to apply these skills in practical projects and am constantly seeking to learn new concepts, especially in areas like artificial intelligence and automation.
+Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, using these languages to build a solid foundation in programming and data handling. I plan to apply these skills in practical projects and am constantly seeking to learn new concepts, especially in areas like artificial intelligence and automation.
+
+- ✅ **Python Course by Curso em Vídeo**:  
+  - Completed all exercises from **Mundo 1 (Fundamentals)**.  
+  - Currently working on challenges from **Mundo 2 (Control Structures)** and **Mundo 3 (Compound Structures)**.  
+  - Exploring practical applications of Python in data handling and problem-solving.
 
 ---
 
@@ -40,12 +45,23 @@ Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, us
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=killandio&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=killandio&theme=tokyonight)  
 
-
 ---
 
 ### 🎓 Projects and Learning
 
+### 🎓 Projects and Learning
+
 > With each new learning, I try to apply my knowledge in small practical projects, which help me solidify my understanding and develop a deeper comprehension of the tools I use. I'm open to collaborating on projects, especially those that promote social impact or technological innovation.
+
+#### Recent Projects
+
+- [Curso em Vídeo - Python Exercises](https://github.com/killandio/CursoEmVideo-Python):  
+  A repository documenting my solutions to the exercises proposed in the Python 3 Course by Curso em Vídeo. This course has been pivotal in building my programming foundations. Comments are written in **English**, but the code remains in **Portuguese**, aligned with the course's context.  
+
+- [Ouvidoria Unifacisa (Collaboration)](https://github.com/raiane-oliveira/ouvidoria-unifacisa-fase-2.git):  
+  I contributed to a university project focused on developing a complaint management system integrating Python with MySQL.  
+  - My role included collaborating on database queries and assisting in refining backend scripts.  
+  - This project provided me with hands-on experience in integrating Python and SQL while working in a team environment.
 
 ---
 
@@ -62,3 +78,4 @@ Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, us
 > - **Personality:** INTP-T, curious and analytical, passionate about problem-solving and exploring the unknown.
 > - **Diverse Interests:** History, Philosophy, Culture, Cinema, RPG, and Creative Writing.
 > - **Motivation:** Exploring the potential of technology to transform lives and create new solutions.
+
