@@ -32,9 +32,6 @@
 
 Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, using these languages to build a solid foundation in programming and data handling. I plan to apply these skills in practical projects and am constantly seeking to learn new concepts, especially in areas like artificial intelligence and automation.
 
-- ✅ **Python Course by Curso em Vídeo**:  
-  - Completed all exercises from **Mundo 1 (Fundamentals)** **Mundo 2 (Control Structures)** and **Mundo 3 (Compound Structures)**.
-
 ---
 
 ### 📊 GitHub Stats
