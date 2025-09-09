@@ -13,9 +13,9 @@
 ### 🛠️ Technical Skills
 
 > As a beginner in the tech field, I’m exploring different tools and programming languages to build a strong foundation. Currently, I’m focusing on:
-> - **Programming Languages:** Python, SQL, C (always open to learning new languages in the future).
+> - **Languages:** Python, SQL, C (always open to learning new languages in the future).
 > - **Tools and Technologies:**  
->   - IDEs: PyCharm, VS Code (via CS50)  
+>   - IDEs: PyCharm, Eclipse and VS Code
 >   - Database: MySQL  
 > - **Level:** Beginner, but highly motivated to keep evolving.
 
