@@ -13,10 +13,7 @@
 ### 🛠️ Technical Skills
 
 > As a beginner in the tech field, I’m exploring different tools and programming languages to build a strong foundation. Currently, I’m focusing on:
-> - **Languages:** Python, SQL, C (always open to learning new languages in the future).
-> - **Tools and Technologies:**  
->   - IDEs: PyCharm, Eclipse and VS Code
->   - Database: MySQL  
+> - **Languages:** Python, SQL, C, Java (always open to learning new languages in the future).
 > - **Level:** Beginner, but highly motivated to keep evolving.
 
 #### **Badges**
@@ -25,12 +22,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-
----
-
-### 🎯 Current Focus
-
-Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, using these languages to build a solid foundation in programming and data handling. I plan to apply these skills in practical projects and am constantly seeking to learn new concepts, especially in areas like artificial intelligence and automation.
 
 ---
 
@@ -44,18 +35,6 @@ Currently, I’m focused on deepening my knowledge in **Python** and **SQL**, us
 ### 🎓 Projects and Learning
 
 > As I continue my learning journey, I focus on applying my knowledge in personal projects. These projects help me deepen my understanding of the tools I use and enhance my problem-solving skills. Currently, my priority is to develop practical experience while building a solid foundation in programming and technology.
-
-#### Recent Projects
-
-- [Curso em Vídeo - Python Exercises](https://github.com/killandio/CursoEmVideo-Python):  
-  A repository documenting my solutions to the exercises proposed in the Python 3 Course by Curso em Vídeo. This course has been pivotal in building my programming foundations. Comments are written in **English**, but the code remains in **Portuguese**, aligned with the course's context.  
-
-- [Ouvidoria Unifacisa (Collaboration)](https://github.com/raiane-oliveira/ouvidoria-unifacisa-fase-2.git):  
-  I contributed to a university project focused on developing a complaint management system integrating Python with MySQL.  
-  - My role included collaborating on database queries and assisting in refining backend scripts.  
-  - This project provided me with hands-on experience in integrating Python and SQL while working in a team environment.
-
----
 
 ### 📫 Contact
 
