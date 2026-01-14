@@ -38,8 +38,7 @@
 
 ### 📫 Contact
 
-> I'm always open to exchanging ideas, learning, and collaborating. You can find me on the following platforms:  
-> - **Email:** [killandio@keymail.dev](mailto:killandio@keymail.dev)  
+> I'm always open to exchanging ideas, learning, and collaborating. You can find me on the following platforms:   
 > - **GitHub:** [github.com/killandio](https://github.com/killandio)
 
 ---
